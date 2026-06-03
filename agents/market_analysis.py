@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from typing import Dict, List
-import ta  # Technical Analysis Library
+import ta
 
 class MarketAnalysisAgent:
     """
